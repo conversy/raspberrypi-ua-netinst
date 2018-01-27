@@ -1,4 +1,4 @@
-# rasppianoteq-ua-netinst [![Issue Count](https://codeclimate.com/github/conversy/raspianoteq-ua-netinst/badges/issue_count.svg)](https://codeclimate.com/github/conversy/raspianoteq-ua-netinst)
+# rasppianoteq-ua-netinst
 
 The minimal Raspbian unattended netinstaller for Raspberry Pi for running [modartt pianoteq][2].
 For instructions, please see https://sconversy.blogspot.fr/2018/01/raspianoteq-hopefully-hassle-free.html
