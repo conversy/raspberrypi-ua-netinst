@@ -1,3 +1,10 @@
+# rasppianoteq-ua-netinst [![Issue Count](https://codeclimate.com/github/conversy/raspianoteq-ua-netinst/badges/issue_count.svg)](https://codeclimate.com/github/conversy/raspianoteq-ua-netinst)
+
+The minimal Raspbian unattended netinstaller for Raspberry Pi for running [modartt pianoteq][2].
+For instructions, please see https://sconversy.blogspot.fr/2018/01/raspianoteq-hopefully-hassle-free.html
+
+The following is the original README.md from raspbian-ua-netinst:
+
 # raspberrypi-ua-netinst [![Issue Count](https://codeclimate.com/github/FooDeas/raspberrypi-ua-netinst/badges/issue_count.svg)](https://codeclimate.com/github/FooDeas/raspberrypi-ua-netinst)
 
 - [Intro](#intro)
@@ -163,3 +170,4 @@ We take no responsibility for ANY data loss. You will be reflashing your SD card
 See LICENSE for license information.
 
 [1]: http://www.raspbian.org/ "Raspbian"
+[2]: http://www.pianoteq.com/ "modartt pianoteq"

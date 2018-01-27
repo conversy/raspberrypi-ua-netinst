@@ -1,3 +1,8 @@
 # To customize the raspberrypi-unattended-installer:
 #
 # Place your settings in this file as described in the README.md or in the advanced documentation.
+
+preset=server
+packages=libx11-6,libxext6,libfreetype6,libasound2,fonts-dejavu-core,fontconfig-config,alsa-utils
+cmdline="dwc_otg.lpm_enable=0 console=serial0,115200 console=tty1 elevator=deadline fsck.repair=yes smsc95xx.turbo_mode=N"
+#final_action=console

@@ -1,0 +1,2 @@
+chroot /rootfs /bin/systemctl enable pianoteq.service
+

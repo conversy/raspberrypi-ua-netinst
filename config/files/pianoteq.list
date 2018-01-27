@@ -1,0 +1,4 @@
+root:root 777 /root/launch-pianoteq.sh
+root:root 644 /etc/systemd/system/pianoteq.service
+root:root 644 /root/ready.mid
+

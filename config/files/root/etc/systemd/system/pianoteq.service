@@ -1,0 +1,14 @@
+[Unit]
+Description=Pianoteq service
+#After=network.target
+
+[Service]
+ExecStart=/bin/sh /root/launch-pianoteq.sh
+WorkingDirectory=/root
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
